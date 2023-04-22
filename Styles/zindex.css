@@ -1,0 +1,19 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background: #d99393;
+}
+
+img {
+    position: absolute;
+    left: 0px;
+    top: 15px;
+    width: 500px;
+    height: 500px;
+    z-index: 1;
+}
+
+#fondo{
+    z-index: -1;
+}
