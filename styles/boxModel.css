@@ -1,0 +1,42 @@
+#my-element1 {
+  filter: blur(0.2em);
+}
+
+#my-element2 {
+  filter: brightness(80%);
+}
+
+#my-element3 {
+  filter: grayscale(80%);
+}
+
+#my-element4 {
+  filter: grayscale(80%);
+  
+}
+
+#my-element5{
+  filter: opacity(0.3);
+  
+}
+
+
+/* Presentational styles*/
+.demo {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  gap: 1.5rem;
+  max-width: 500px;
+  max-height: 500px;
+  margin: 2em auto ;
+}
+
+.demo p {
+  margin-top: 0.5rem;
+}
+
+.demo img {
+  width: 100%;
+  max-height: 500px;
+  object-fit: cover;
+}
