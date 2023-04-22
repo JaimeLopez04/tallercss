@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    font-family: Raleway;
+}
+
+.titulo1{
+    text-align: center;
+    color: red;
+    size: 12px;
+}
+
+.titulos{
+    font-size: 24px;
+    text-align: center;
+    color: cornflowerblue;
+}
+
+.parrafo1{
+    font-size: 2em;
+    color: cadetblue;
+    text-align: justify;
+}
+
+.parrafo2{
+    font-size: 2.5rem;
+    color: darkcyan;
+    text-align: justify;
+}
+
+.parrafo3{
+    font-size: 220%;
+    color: darkslategray;
+    text-align: justify;
+}

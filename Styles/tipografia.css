@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Rubik');
+
+body{
+    text-align: justify;
+    padding: 3em;
+}
+
+#title{
+    font-family: Raleway;
+    text-align: center;
+}
+
+#parrafo1{
+    color: blue;
+    font-family: Poppins;
+}
+
+#parrafo2{
+    color: blueviolet;
+    font-family: Ubuntu;
+}
+
+#parrafo3{
+    color: crimson;
+    font-family: Rubik;
+}
+
