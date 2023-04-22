@@ -1,0 +1,9 @@
+#div1 {
+    position: absolute;
+    left: 50px;
+    width: calc(100%/3);
+    border: 1px solid black;
+    background: yellow;
+    padding: 5px;
+    text-align: center;
+  }
